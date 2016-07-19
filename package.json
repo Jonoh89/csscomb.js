@@ -19,7 +19,7 @@
   "dependencies": {
     "glob": "latest",
     "minimist": "1.1.x",
-    "csscomb-core": "git+https://github.com/Jonoh89/csscomb-core.git",
+    "csscomb-core": "git+https://github.com/Jonoh89/csscomb-core.git#dev",
     "gonzales-pe": "^3.3.6",
     "vow": "0.4.4"
   },
